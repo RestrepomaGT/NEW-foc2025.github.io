@@ -1,22 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>4th Annual Family Office Connect 2025</title>
-  <!-- ... other head content ... -->
-</head>
-<body class="bg-gray-50 text-gray-900">
-
-  <!-- Header / Nav -->
-  <!-- ... header code ... -->
-
-  <!-- HERO with LOGO ABOVE TITLE -->
-  <section class="hero text-white pt-16 pb-20 md:pt-20 md:pb-28">
-    <div class="container relative z-10 mx-auto max-w-6xl px-6 text-center">
-      <!-- LOGO BLOCK (above the title) -->
-      <div class="mx-auto mb-6 md:mb-8 inline-block">
-        <!-- Updated PNG logo reference --><svg width="803" height="768" viewBox="0 0 803 768" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="803" height="768" viewBox="0 0 803 768" fill="none" xmlns="http://www.w3.org/2000/svg">
   <g>
     <!-- Example stylized paths for the marlin, triangle, "2025", and "FOC" -->
     <path d="M 11 757 Q 5 752 5 743 L 5 27 Q 5 18 11 13 Q 17 8 23 8 L 780 8 Q 786 8 792 13 Q 798 18 798 27 L 798 743 Q 798 752 792 757 Q 786 762 780 762 L 23 762 Q 17 762 11 757 Z" stroke="black" stroke-width="15" fill="none"/>
@@ -25,22 +7,3 @@
     <text x="130" y="650" font-family="serif" font-size="160" font-weight="bold" fill="black">FOC</text>
   </g>
 </svg>
-        <img
-          src="assets/foc-logo.png"
-          alt="FOC — Family Office Connect logo"
-          width="180"
-          height="180"
-          class="mx-auto h-20 w-auto md:h-24"
-          loading="eager"
-          decoding="async"
-          onerror="this.src='Untitled design (2).svg'; this.onerror=null;"
-        />
-      </div>
-      <!-- ... rest of the HERO section ... -->
-    </div>
-  </section>
-
-  <!-- ... rest of your HTML file unchanged ... -->
-
-</body>
-</html>
